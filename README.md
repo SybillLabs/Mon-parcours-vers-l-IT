@@ -25,7 +25,7 @@ Mon GitHub est organisé de façon à épingler les dépôts suivants :
 - 🚀 **Le monde du DevOps** : CI/CD, automatisation et pratiques d’ingénierie DevOps  
 
 ## 📄 Ressources
-Dans ce dépôt, vous trouverez mon [CV](./CV_Sybill.pdf) régulièrement mis à jour.  
+Dans ce dépôt, vous trouverez mon [CV](./CV.pdf) régulièrement mis à jour.  
 
 ## 🚀 Parcours & Objectifs
 Mon parcours est atypique :  
